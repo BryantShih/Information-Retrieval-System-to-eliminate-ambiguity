@@ -1,0 +1,747 @@
+************** ************** ************** 
+************** test case 1 *******************
+************** ************** ************** 
+
+dyn-160-39-246-190:src Allen$ java -cp jsoup-1.7.3.jar:commons-codec-1.9.jar: Bing dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo 0.8 snow leopard
+Parameter:
+Client Key = dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo
+Query      = snow leopard
+Precision  = 0.8
+URL:https,//api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Web?Query%27San%27&$top=10&$
+Number of result: 10
+Bing Search Result
+
+--------------------------------------------------------------
+Result 1
+[
+ Title        :Snow leopard - Wikipedia, the free encyclopedia
+ Summary      :Snow leopards are slightly smaller than the other big cats but, like them, exhibit a range of sizes, generally weighing between 27 and 55 kg (60 and 121 lb), with an ...
+ URL          :http://en.wikipedia.org/wiki/Snow_Leopard
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 2
+[
+ Title        :Snow Leopards, Snow Leopard Pictures, Snow Leopard Facts ...
+ Summary      :Learn all you wanted to know about snow leopards with pictures, videos, photos, facts, and news from National Geographic.
+ URL          :http://animals.nationalgeographic.com/animals/mammals/snow-leopard/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 3
+[
+ Title        :Mac OS X 10.6 Snow Leopard - Apple Store (U.S.)
+ Summary      :If you need to purchase Mac OS X 10.6 Snow Leopard, you may order it from this page. The most current version of OS X is OS X 10.9 Mavericks.
+ URL          :http://store.apple.com/us/product/MC573Z/A/mac-os-x-106-snow-leopard
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 4
+[
+ Title        :Snow Leopard | Basic Facts About Snow Leopards | Defenders ...
+ Summary      :Learn about the size, diet, population, range, behavior and other fascinating facts about snow leopards.
+ URL          :http://www.defenders.org/snow-leopard/basic-facts
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 5
+[
+ Title        :Snow Leopard | Species | WWF - World Wildlife Fund
+ Summary      :The snow leopard’s powerful build allows it to scale great steep slopes with ease. Its hind legs give the snow leopard the ability to leap six times the length of ...
+ URL          :http://worldwildlife.org/species/snow-leopard
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 6
+[
+ Title        :Snow Leopard | San Diego Zoo Animals
+ Summary      :So how do snow leopards live at high altitudes? They keep mainly to cliffs and rocky slopes, below the permanent snow line. Snow leopards have a relatively small head ...
+ URL          :http://animals.sandiegozoo.org/animals/snow-leopard
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 7
+[
+ Title        :Apple - Support - Snow Leopard
+ Summary      :Get help with installing and using Snow Leopard, setting up email accounts, connecting to the Internet, troubleshooting, and much more.
+ URL          :http://www.apple.com/support/snowleopard/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 8
+[
+ Title        :Snow Leopard Trust - Official Site
+ Summary      :Located in Seattle, they work to protect the endangered snow leopard and its Central Asian habitat.
+ URL          :http://www.snowleopard.org/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 9
+[
+ Title        :OS X - Official Site
+ Summary      :The new OS X is loaded with new features, apps, and technologies that give you the power to do more. And make your Mac even more energy-efficient.
+ URL          :http://www.apple.com/osx/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 10
+[
+ Title        :Amazon.com: snow leopard
+ Summary      :Mac OS X Server v10.6.3 Snow Leopard - Unlimited Client License by Apple Mac OS X 10.6 "Snow Leopard" Server Unlimited MC190Z/A (DVD-ROM) - Mac OS X Intel
+ URL          :http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Asnow%20leopard
+]
+Relevant (Y/N)?y
+======================
+FEEDBACK SUMMARY
+Query       = snow leopard
+Precison    = 0.4
+Still below desired precision of 0.8
+indcexing...
+indcexing...
+menting by  os
+Parameter:
+Client Key = dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo
+Query      = leopard snow os
+Precision  = 0.8
+URL:https,//api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Web?Query%27San%27&$top=10&$
+Number of result: 10
+Bing Search Result
+
+--------------------------------------------------------------
+Result 1
+[
+ Title        :Mac OS X Snow Leopard - Wikipedia, the free encyclopedia
+ Summary      :Mac OS X Snow Leopard (version 10.6) is the seventh major release of Mac OS X, Apple's desktop and server operating system for Macintosh computers.
+ URL          :http://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 2
+[
+ Title        :Mac OS X 10.6 Snow Leopard - Apple Store (U.S.)
+ Summary      :If you need to purchase Mac OS X 10.6 Snow Leopard, you may order it from this page. The most current version of OS X is OS X 10.9 Mavericks.
+ URL          :http://store.apple.com/us/product/MC573Z/A/mac-os-x-106-snow-leopard
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 3
+[
+ Title        :Apple - Support - Snow Leopard
+ Summary      :Get help with installing and using Snow Leopard, setting up email accounts, connecting to the Internet, troubleshooting, and much more.
+ URL          :http://www.apple.com/support/snowleopard/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 4
+[
+ Title        :OS X - Official Site
+ Summary      :The new OS X is loaded with new features, apps, and technologies that give you the power to do more. And make your Mac even more energy-efficient.
+ URL          :http://www.apple.com/osx/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 5
+[
+ Title        :Apple Mac OS X Snow Leopard for Mac - Free download and ...
+ Summary      :Sneaking in a few days before its promised September release, the tune-up for Mac OS X Leopard costs $29 for current Leopard users, and packs just enough ...
+ URL          :http://download.cnet.com/Apple-Mac-OS-X-Snow-Leopard/3000-18513_4-90306.html
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 6
+[
+ Title        :Amazon.com: Mac OS X version 10.6.3 Snow Leopard (Mac ...
+ Summary      :Mac OS X Snow Leopard is an even more powerful and refined version of the world’s most advanced operating system. In ways big and small, it gets faster, more ...
+ URL          :http://www.amazon.com/version-Leopard-computer-processor-required/dp/B001AMHWP8
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 7
+[
+ Title        :Mac OS X Leopard - Wikipedia, the free encyclopedia
+ Summary      :Mac OS X Leopard (version 10.5) is the sixth major release of Mac OS X, Apple's desktop and server operating system for Macintosh computers. Leopard was released on ...
+ URL          :http://en.wikipedia.org/wiki/Mac_OS_X_Leopard
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 8
+[
+ Title        :mac os snow leopard | eBay - Electronics, Cars, Fashion ...
+ Summary      :Find great deals on eBay for mac os snow leopard and mac osx snow leopard. Shop with confidence.
+ URL          :http://www.ebay.com/sch/i.html?_nkw=mac+os+snow+leopard
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 9
+[
+ Title        :OS X 10.6 Snow Leopard (Mac) - Download - Softonic
+ Summary      :Snow Leopard Mac OS X 10.6 was superseded by Lion OS X 10.7 in 2011 which in turn was replaced by Mountain Lion in 2012. The first thing Mac users should be aware of ...
+ URL          :http://snow-leopard.en.softonic.com/mac
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 10
+[
+ Title        :snow leopard in Software | eBay - Electronics, Cars ...
+ Summary      :Find snow leopard and mac os x snow leopard from a vast selection of Software. Get great deals on eBay!
+ URL          :http://www.ebay.com/sch/Software-/18793/i.html?_nkw=snow+leopard
+]
+Relevant (Y/N)?y
+======================
+FEEDBACK SUMMARY
+Query       = leopard snow os
+Precison    = 1.0
+Desired precision reached, done
+
+
+************** ************** ************** 
+************** test case 2 *******************
+************** ************** ************** 
+
+dyn-160-39-246-190:src Allen$ java -cp jsoup-1.7.3.jar:commons-codec-1.9.jar: Bing dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo 0.8 gates
+Parameter:
+Client Key = dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo
+Query      = gates
+Precision  = 0.8
+URL:https,//api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Web?Query%27San%27&$top=10&$
+Number of result: 10
+Bing Search Result
+
+--------------------------------------------------------------
+Result 1
+[
+ Title        :Gates - Powering Progress™ in belts, hose & hydraulics
+ Summary      :Gates Corporation is Powering Progress™ in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+ URL          :http://gates.com/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 2
+[
+ Title        :Driveway Gates | Automatic Gates | Electric Gates
+ Summary      :Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+ URL          :http://www.gatecrafters.com/design_your_gates.aspx
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 3
+[
+ Title        :Automotive | Gates Corporation
+ Summary      :Gates offers the most complete line of original equipment products, including automotive hoses, belts & accessories for the automotive aftermarket.
+ URL          :http://www.gates.com/automotive.cfm
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 4
+[
+ Title        :Amazon.com: gates
+ Summary      :"gates" Showing 1 - 16 of 334,134 Results. Choose a Department to enable sorting. 1. Duty: Memoirs of a Secretary at War by Robert Michael Gates (Hardcover - Jan ...
+ URL          :http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 5
+[
+ Title        :Safety Gates - Health & Safety - Babies "R" Us
+ Summary      :Safety gates available at Babies'R'Us with the best prices and top selections! Shop now for quality, safe and durable baby safety gates and accessories!
+ URL          :http://www.toysrus.com/category/index.jsp?categoryId=3243470
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 6
+[
+ Title        :Bill Gates - Wikipedia, the free encyclopedia
+ Summary      :William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, investor, programmer, inventor and philanthropist. Gates is the ...
+ URL          :http://en.wikipedia.org/wiki/Bill_Gates
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 7
+[
+ Title        :Gates | Define Gates at Dictionary.com
+ Summary      :gate 1 (ɡeɪt) —n: 1. a movable barrier, usually hinged, for closing an opening in a wall, fence, etc: 2. an opening to allow passage into or out of an enclosed place
+ URL          :http://dictionary.reference.com/browse/gates
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 8
+[
+ Title        :Gate - Wikipedia, the free encyclopedia
+ Summary      :Types . Types of gates include: Baby gate; City gate; Hampshire gate; Kissing gate; Lych gate; Mon (architecture), Japanese gates of many varieties including the Torii
+ URL          :http://en.wikipedia.org/wiki/Gate
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 9
+[
+ Title        :Town of Gates - A Community For All People
+ Summary      :Gates, New York is a dynamic town in Monroe County with an interesting past and a bright future. The town was incorporated in 1813 and was the last remnants of ...
+ URL          :http://www.townofgates.org/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 10
+[
+ Title        :Bill Gates: Founder and Technology Advisor
+ Summary      :Updated: Feb. 4, 2014. William (Bill) H. Gates is founder, technology advisor and board member of Microsoft Corporation, the worldwide leader in software ...
+ URL          :http://www.microsoft.com/en-us/news/exec/billg/
+]
+Relevant (Y/N)?y
+======================
+FEEDBACK SUMMARY
+Query       = gates
+Precison    = 0.2
+Still below desired precision of 0.8
+indcexing...
+indcexing...
+menting by  bill
+Parameter:
+Client Key = dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo
+Query      = gates bill
+Precision  = 0.8
+URL:https,//api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Web?Query%27San%27&$top=10&$
+Number of result: 10
+Bing Search Result
+
+--------------------------------------------------------------
+Result 1
+[
+ Title        :Bill Gates - Wikipedia, the free encyclopedia
+ Summary      :William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, investor, programmer, inventor and philanthropist. Gates is the ...
+ URL          :http://en.wikipedia.org/wiki/Bill_Gates
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 2
+[
+ Title        :Bill Gates - Official Site
+ Summary      :The debate over education in the United States is getting clouded by myths—especially myths about the academic standards known as Common Core.
+ URL          :http://www.thegatesnotes.com/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 3
+[
+ Title        :Bill Gates Biography - Facts, Birthday, Life Story ...
+ Summary      :Biography.com tracks the life and career of Bill Gates, from his early interest in computer programming to his place as founder of Microsoft, the world's largest ...
+ URL          :http://www.biography.com/people/bill-gates-9307520
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 4
+[
+ Title        :Bill & Melinda Gates Foundation - Official Site
+ Summary      :About the Foundation. Guided by the belief that every life has equal value, the Bill and Melinda Gates Foundation aspires to help all people lead healthy ...
+ URL          :http://www.gatesfoundation.org/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 5
+[
+ Title        :Bill Gates: Founder and Technology Advisor
+ Summary      :Updated: Feb. 4, 2014. William (Bill) H. Gates is founder, technology advisor and board member of Microsoft Corporation, the worldwide leader in software ...
+ URL          :http://www.microsoft.com/en-us/news/exec/billg/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 6
+[
+ Title        :Bill Gates Facts, information, pictures | Encyclopedia.com ...
+ Summary      :Get information, facts, and pictures about Bill Gates at Encyclopedia.com. Make research projects and school reports about Bill Gates easy with credible articles from ...
+ URL          :http://www.encyclopedia.com/topic/Bill_Gates.aspx
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 7
+[
+ Title        :Bill Gates - Forbes - Information for the World's Business ...
+ Summary      :Bill Gates is the wealthiest man in the U.S. (and the world, for that matter), despite past gifts of more than $28 billion to the Bill & Melinda Gates Foundation.
+ URL          :http://www.forbes.com/profile/bill-gates/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 8
+[
+ Title        :Bill Gates - Bill & Melinda Gates Foundation
+ Summary      :Bill Gates is co-chair of the Bill & Melinda Gates Foundation. Along with co-chair Melinda Gates, he shapes and approves grantmaking strategies, advocates for the ...
+ URL          :http://www.gatesfoundation.org/who-we-are/general-information/leadership/management-committee/bill-gates
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 9
+[
+ Title        :Bill Gates (BillGates) on Twitter
+ Summary      :The latest from Bill Gates (@BillGates). Sharing things I'm learning through my foundation work and other interests. Seattle, WA
+ URL          :http://twitter.com/billgates
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 10
+[
+ Title        :Bill Gates | Facebook
+ Summary      :Bill Gates. 7,505,155 likes · 403,668 talking about this. www.thegatesnotes.com
+ URL          :https://www.facebook.com/BillGates
+]
+Relevant (Y/N)?y
+======================
+FEEDBACK SUMMARY
+Query       = gates bill
+Precison    = 1.0
+Desired precision reached, done
+
+
+***************** ***************** *****************
+***************** test case 3	 *****************
+***************** ***************** *****************
+
+
+dyn-160-39-246-190:src Allen$ java -cp jsoup-1.7.3.jar:commons-codec-1.9.jar: Bing dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo 0.8 columbia
+Parameter:
+Client Key = dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo
+Query      = columbia
+Precision  = 0.8
+URL:https,//api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Web?Query%27San%27&$top=10&$
+Number of result: 10
+Bing Search Result
+
+--------------------------------------------------------------
+Result 1
+[
+ Title        :Columbia Sportswear - Official Site
+ Summary      :Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+ URL          :http://www.columbia.com/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 2
+[
+ Title        :Columbia University - Official Site
+ Summary      :Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+ URL          :http://www.columbia.edu/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 3
+[
+ Title        :Columbia (name) - Wikipedia, the free encyclopedia
+ Summary      :Columbia is a historical and poetic name used for the United States of America and is also the name of its female personification. It has inspired the names of many ...
+ URL          :http://en.wikipedia.org/wiki/Columbia_(name)
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 4
+[
+ Title        ::: Welcome to the City of Columbia ::
+ Summary      :The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+ URL          :http://columbiasc.net/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 5
+[
+ Title        :Columbia Sportswear | International > Select a Country
+ Summary      :Welcome to the Greater Outdoors. Experience the Columbia Sportswear website specific to your country and language. Learn more about our products and find out where to ...
+ URL          :http://www.columbia.com/on/demandware.store/Sites-Columbia_US-Site/default/Home-SelectCountry
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 6
+[
+ Title        :Columbia, Missouri - Official Site
+ Summary      :The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+ URL          :http://www.gocolumbiamo.com/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 7
+[
+ Title        :Home | Columbia Business School
+ Summary      :Columbia Business School brings a global perspective, cutting-edge methodology, and the energy of New York City to its MBA, EMBA, Executive Education, PhD, and MS ...
+ URL          :http://www8.gsb.columbia.edu/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 8
+[
+ Title        :Columbia University - Wikipedia, the free encyclopedia
+ Summary      :Columbia University in the City of New York, commonly referred to as Columbia University, is an American private Ivy League research university located in ...
+ URL          :http://en.wikipedia.org/wiki/Columbia_university
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 9
+[
+ Title        :Columbia, California | Historic Gold Rush Town
+ Summary      :Come discover Columbia and explore the rich history of this charming California Gold Rush town located in the heart of the Mother Lode off of highway 49.
+ URL          :http://www.visitcolumbiacalifornia.com/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 10
+[
+ Title        :Columbia | SIPA | School of International and Public Affairs
+ Summary      :Columbia SIPA is the world’s most global public policy school. SIPA offers MPA, MIA and PhD degrees focused on the skills and knowledge needed to solve the most ...
+ URL          :http://new.sipa.columbia.edu/
+]
+Relevant (Y/N)?y
+======================
+FEEDBACK SUMMARY
+Query       = columbia
+Precison    = 0.4
+Still below desired precision of 0.8
+indcexing...
+indcexing...
+menting by  new york
+Parameter:
+Client Key = dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo
+Query      = columbia new york
+Precision  = 0.8
+URL:https,//api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Web?Query%27San%27&$top=10&$
+Number of result: 10
+Bing Search Result
+
+--------------------------------------------------------------
+Result 1
+[
+ Title        :Columbia University - Official Site
+ Summary      :Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+ URL          :http://www.columbia.edu/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 2
+[
+ Title        :Columbia, New York - Wikipedia, the free encyclopedia
+ Summary      :Columbia is a town in Herkimer County, New York, United States. As of the 2010 census, the town population was 1,580. The Town of Columbia is at the south border of ...
+ URL          :http://en.wikipedia.org/wiki/Columbia,_New_York
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 3
+[
+ Title        :Columbia University in the City of New York
+ Summary      :Ivy Ballet Exchange Performs at Miller Theatre, Feb. 15 and 16 THE ARTS AT COLUMBIA
+ URL          :http://www.columbia.edu/?201
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 4
+[
+ Title        :Columbia University - Wikipedia, the free encyclopedia
+ Summary      :Columbia University in the City of New York, commonly referred to as Columbia University, is an American private Ivy League research university located in the ...
+ URL          :http://en.wikipedia.org/wiki/Columbia_university
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 5
+[
+ Title        :Columbia County, New York Homepage
+ Summary      :Columbia County Hazardous Mitigation Plan. The proposed Columbia County Hazardous Mitigation Plan is available for review online. If there are any issues or changes ...
+ URL          :http://columbiacountyny.com/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 6
+[
+ Title        :Columbia, New York (NY) profile: population, maps, real ...
+ Summary      :Back to the top. Tornado activity: Columbia-area historical tornado activity is near New York state average. It is 56% smaller than the overall U.S. average.
+ URL          :http://www.city-data.com/city/Columbia-New-York.html
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 7
+[
+ Title        :Columbia County, New York
+ Summary      :Blast rocks Kentucky pipeline, engulfs homes Thu, 13 Feb 2014 16:25:45 GMT (Reuters) - U.S. natural gas pipeline company NiSource Inc said it shut part of its key ...
+ URL          :http://www.columbianewyork.com/
+]
+Relevant (Y/N)?n
+
+--------------------------------------------------------------
+Result 8
+[
+ Title        :New York Stories | Columbia News
+ Summary      :The nation’s oldest continuously publishing Spanish-language newspaper has given the University some 5,000 photographs documenting the lives of New York’s Latinos.
+ URL          :http://news.columbia.edu/newyorkstories
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 9
+[
+ Title        :Columbia University in the City of New York | Facebook
+ Summary      :Columbia University in the City of New York. 116,483 likes · 3,884 talking about this. Welcome to the official Facebook page for Columbia University. To view a ...
+ URL          :https://www.facebook.com/columbia
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 10
+[
+ Title        :Home | Columbia News
+ Summary      :Researchers at Columbia University College of Physicians & Surgeons have uncovered some of the secrets behind a powerful new genetic engineering technique.
+ URL          :http://news.columbia.edu/
+]
+Relevant (Y/N)?y
+======================
+FEEDBACK SUMMARY
+Query       = columbia new york
+Precison    = 0.6
+Still below desired precision of 0.8
+indcexing...
+indcexing...
+menting by  university
+Parameter:
+Client Key = dFkQ9zzsXuD5Mvqsb3jyPvIuPYgTzzOGhiB33K9OPLo
+Query      = columbia university york new
+Precision  = 0.8
+URL:https,//api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Web?Query%27San%27&$top=10&$
+Number of result: 10
+Bing Search Result
+
+--------------------------------------------------------------
+Result 1
+[
+ Title        :Columbia University - Official Site
+ Summary      :Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+ URL          :http://www.columbia.edu/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 2
+[
+ Title        :Columbia University - Wikipedia, the free encyclopedia
+ Summary      :Columbia University in the City of New York, commonly referred to as Columbia University, is an American private Ivy League research university located in the ...
+ URL          :http://en.wikipedia.org/wiki/Columbia_university
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 3
+[
+ Title        :Columbia College, Columbia University - Official Site
+ Summary      :Columbia College is pleased to introduce the new Columbia College Annual Report, which for the first time not only highlights the Columbia College Fund, as in the ...
+ URL          :http://www.college.columbia.edu/
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 4
+[
+ Title        :On Campus | Columbia News
+ Summary      :Columbia University President Lee C. Bollinger has appointed Nicholas Lemann, professor of journalism and dean emeritus of Columbia Journalism School, to direct ...
+ URL          :http://news.columbia.edu/oncampus/3356
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 5
+[
+ Title        :Admissions | Columbia University in the City of New York
+ Summary      :Search for a specific department at Columbia University or see a list of all departments.
+ URL          :http://www.columbia.edu/content/admissions.html
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 6
+[
+ Title        :About Columbia | Columbia University in the City of New York
+ Summary      :Columbia is led by President Lee C. Bollinger. The University's governance is directed by the 24-member Board of Trustees and by the University Senate.
+ URL          :http://www.columbia.edu/content/about-columbia.html
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 7
+[
+ Title        :Departments | Columbia University in the City of New York
+ Summary      :Can't find what you're looking for? Let us know! About. History; Administration; Statistics & Facts; Visiting; Admissions. Schools; Departments
+ URL          :http://www.columbia.edu/content/departments-1.html
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 8
+[
+ Title        :Academics | Columbia University in the City of New York
+ Summary      :For more information on one of Columbia's undergraduate, graduate or professional schools, select from the drop-down menu on the right.
+ URL          :http://www.columbia.edu/content/academics.html
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 9
+[
+ Title        :Employment at Columbia | Columbia University in the City ...
+ Summary      :A world-renowned research university in New York City, Columbia's success is the result of a diverse workforce coming together to help shape the future.
+ URL          :http://www.columbia.edu/content/employment-columbia.html
+]
+Relevant (Y/N)?y
+
+--------------------------------------------------------------
+Result 10
+[
+ Title        :Columbia University In the City of New York : AEJMC ...
+ Summary      :Pulitzer Prize Administrator Columbia University and the Pulitzer Prize Board are seeking a Pulitzer Prize Administrator, for full-time appointment, starting between ...
+ URL          :http://www.aejmc.org/jobads/?p=9105
+]
+Relevant (Y/N)?y
+======================
+FEEDBACK SUMMARY
+Query       = columbia university york new
+Precison    = 1.0
+Desired precision reached, done
+
